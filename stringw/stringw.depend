@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662012335 source:c:\users\vital\onedrive\documents\Прогматика\cpp\stringw\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671959882 source:c:\users\vital\onedrive\documents\Прогматика\cpp\palindrom\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

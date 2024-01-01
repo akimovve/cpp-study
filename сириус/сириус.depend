@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1673425795 source:c:\users\vital\onedrive\documents\Прогматика\cpp\сириус\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<vector>
+

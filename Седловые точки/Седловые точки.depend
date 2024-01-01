@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665549302 source:c:\users\vital\onedrive\documents\Прогматика\cpp\Седловые точки\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+

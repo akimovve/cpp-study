@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661596673 source:c:\users\vital\onedrive\documents\Прогматика\cpp\dragon\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

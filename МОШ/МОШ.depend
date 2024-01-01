@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674105137 source:c:\users\vital\onedrive\documents\Прогматика\cpp\МОШ\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+

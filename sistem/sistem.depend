@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662287488 source:c:\users\vital\onedrive\documents\Прогматика\cpp\sistem\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

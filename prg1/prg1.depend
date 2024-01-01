@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658063819 source:c:\users\vital\onedrive\documents\Прогматика\cpp\prg1\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+

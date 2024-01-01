@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678165307 source:c:\users\vital\onedrive\documents\Прогматика\cpp\acmp.задачи\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+

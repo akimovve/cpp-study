@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661440297 source:c:\users\vital\onedrive\documents\Прогматика\cpp\127vit\main.cpp
+	<iostream>
+	<clocale>
+	<string>
+

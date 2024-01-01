@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1703434600 source:c:\users\vital\onedrive\documents\Прогматика\cpp\informatics\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<iomanip>
+	<algorithm>
+	<string>
+	<fstream>
+
